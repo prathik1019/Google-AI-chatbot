@@ -1,0 +1,8 @@
+{
+  "name": "Gokarna Guide",
+  "description": "An intelligent, multilingual travel assistant chatbot that helps visitors explore Gokarna, Karnataka with warmth, knowledge, and beauty using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
